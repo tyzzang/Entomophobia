@@ -9,6 +9,17 @@
 
 <br>2024 도쿄 게임쇼(TGS)에 출품하여 시연하였으며, 많은 관람객들로부터 몰입감과 공포 연출에 대한 긍정적인 반응을 얻었습니다!<br>
 
+기술스택
+
+사용기술
+
+게임 가이드
+
+인게임
+
+게임 스토리
+
+
 ![VR캡처_1](https://github.com/user-attachments/assets/25e4020a-7863-4f47-8f22-8b84765b0e99)
 ![VR캡처_2](https://github.com/user-attachments/assets/0d26f60d-1cf9-430f-8801-ad8173ca92e0)
 ![VR캡처_3](https://github.com/user-attachments/assets/85ec91ae-21e1-4638-8805-859074d3d283)
